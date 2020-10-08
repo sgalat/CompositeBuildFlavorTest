@@ -1,0 +1,4 @@
+include ':mylibrary1'
+include ':mylibrary2'
+include ':app'
+rootProject.name = "MultiModuleProject"
